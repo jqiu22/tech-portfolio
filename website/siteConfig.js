@@ -68,7 +68,6 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'jing-qiu-601832102',
-        twitter: '',
         github: 'jqiu22',
     },
 
